@@ -200,4 +200,10 @@ Git操作场景示例 1. 删除掉本地不存在的远程分支 多人合作开
 
 . 使用 pull 命令，添加 -p 参数 $ git pull -p
 
-. 等同于下面的命令 $ git fetch -p $ git fetch --prune origin 111111111111
+. 等同于下面的命令 $ git fetch -p $ git fetch --prune origin
+
+111111111111
+============
+
+22222
+=====
